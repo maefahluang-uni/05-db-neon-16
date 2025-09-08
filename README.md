@@ -15,7 +15,7 @@ In UserRepository, declare the following methods that help to find all user and 
 - `data.sql` contains insert statements for dummy users. Find where this file is and explain what it is used for? 
 
 ```
-Your answer
+The file is placed in the resources folder of a typical Java/Spring Boot project and the reason of using it is to test the test without entering data manually.
 ```
 
 ## User Reservice - Complete the code
